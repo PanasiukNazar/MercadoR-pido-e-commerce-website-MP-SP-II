@@ -1578,11 +1578,10 @@ section,
     .features .nav-link {
         border: 0;
         padding: 15px;
-        color: #fff;
     }
 
     .features .nav-link.active {
-        color: var(--accent-color);
+        color: #fff;
         background: var(--accent-color);
     }
 }
